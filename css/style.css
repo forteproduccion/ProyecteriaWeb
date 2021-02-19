@@ -76,7 +76,7 @@ h3 {
 
 h4 {
 	font-size: 21px;
-	color: #07528d;
+	color: #000000;
 	margin-top: 25px;
 }
 
@@ -541,7 +541,7 @@ a.navbar-brand {
 	animation-fill-mode: both;
 	-webkit-animation-name: fadeInDown;
 	animation-name: fadeInDown;
-	background: #fff;
+	background: #fx|ff;
 	z-index: 20;
 }
 
@@ -905,7 +905,7 @@ button#sidebarCollapse {
     background-size: auto;
     background-position: right center;
     background-repeat: no-repeat;
-    background-color: #d3d3d3;
+    background-color: #f0f0f0;
 }
 
 /*------------------------------------------------------------------ About -------------------------------------------------------------------*/
@@ -2050,7 +2050,7 @@ p {
     font-size: 17px;
     font-weight: 300;
     line-height: 30px;
-    color: #272f43;
+    color: #636363;
 }
 
 .text_align_left {
@@ -2212,7 +2212,7 @@ p.section_count {
 }
 
 .theme_bg {
-	background: #07528d;
+	background: #636363;
 }
 
 h3.small_heading {
@@ -2222,7 +2222,7 @@ h3.small_heading {
 }
 
 .heading_small h4 {
-    color: #272f43;
+    color: #636363;
     font-size: 30px;
     border-bottom: solid #ddd 1px;
     margin-bottom: 40px;
